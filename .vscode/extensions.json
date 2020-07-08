@@ -1,8 +1,11 @@
 {
-    "recommendations": [
-        "editorconfig.editorconfig",
-        "dbaeumer.vscode-eslint",
-        "esbenp.prettier-vscode",
-        "stylelint.vscode-stylelint",
-    ]
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "2gua.rainbow-brackets",
+    "oderwat.indent-rainbow",
+    "shan.code-settings-sync"
+  ]
 }

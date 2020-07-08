@@ -14,3 +14,6 @@ trim_trailing_whitespace = false
 
 [Makefile]
 indent_style = tab
+
+# 加上这一行
+end_of_line = unset

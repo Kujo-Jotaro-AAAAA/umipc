@@ -20,3 +20,4 @@
       'config'  构建过程或辅助工具的变动
       'chore'   其他改动
 
+例子: `chore: update info`(注意空格)

@@ -3,8 +3,8 @@ import './core/polyfill';
 import '@@/core/devScripts';
 import { plugin } from './core/plugin';
 import { createHistory } from './core/history';
-import { ApplyPluginsType } from '/Users/zhangzhichao/work/df-work/dffl-fuman-product/dffl-fuman-product-manage/node_modules/@umijs/runtime';
-import { renderClient } from '/Users/zhangzhichao/work/df-work/dffl-fuman-product/dffl-fuman-product-manage/node_modules/@umijs/renderer-react/dist/index.js';
+import { ApplyPluginsType } from '/Users/zhangzhichao/work/df-work/umipc/node_modules/@umijs/runtime';
+import { renderClient } from '/Users/zhangzhichao/work/df-work/umipc/node_modules/@umijs/renderer-react/dist/index.js';
 
 
 require('../global.less');

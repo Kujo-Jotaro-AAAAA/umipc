@@ -20,9 +20,9 @@ export function _onCreate() {
     app.use(plugin);
   });
   
-  app.model({ namespace: 'global', ...(require('/Users/zhangzhichao/work/df-work/umipc/src/models/global.js').default) });
-app.model({ namespace: 'demo', ...(require('/Users/zhangzhichao/work/df-work/umipc/src/pages/demo/models/demo.js').default) });
-app.model({ namespace: 'login', ...(require('/Users/zhangzhichao/work/df-work/umipc/src/pages/login/models/login.js').default) });
+  app.model({ namespace: 'global', ...(require('/Users/stanleyxu/Documents/umi-east/umipc/src/models/global.js').default) });
+app.model({ namespace: 'demo', ...(require('/Users/stanleyxu/Documents/umi-east/umipc/src/pages/demo/models/demo.js').default) });
+app.model({ namespace: 'login', ...(require('/Users/stanleyxu/Documents/umi-east/umipc/src/pages/login/models/login.js').default) });
   return app;
 }
 
